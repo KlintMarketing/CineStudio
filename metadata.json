@@ -1,0 +1,7 @@
+{
+  "name": "CineStudio - TR Portfolio",
+  "description": "A professional-grade video prompting and generation tool using Gemini 2.5 Image and Veo 3.1 models for end-to-end creative workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
